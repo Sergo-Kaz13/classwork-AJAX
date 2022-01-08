@@ -1,0 +1,13 @@
+body {
+  background: rgb(216, 113, 113);
+  font-size: 40px;
+}
+
+
+table {
+  background: rgb(144, 182, 176);
+  border-collapse: collapse;
+}
+td {
+  border: 1px solid black;
+}
